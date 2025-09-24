@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4546BAAC-6251-4CBC-A65A-F6C440FB0DFD}|atv-api-23-09.csproj|c:\\users\\2023202060036\\documents\\programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\models\\dadosempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4546BAAC-6251-4CBC-A65A-F6C440FB0DFD}|atv-api-23-09.csproj|solutionrelative:models\\dadosempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4546BAAC-6251-4CBC-A65A-F6C440FB0DFD}|atv-api-23-09.csproj|c:\\users\\2023202060036\\documents\\programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\controllers\\dadosempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4546BAAC-6251-4CBC-A65A-F6C440FB0DFD}|atv-api-23-09.csproj|solutionrelative:controllers\\dadosempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4546BAAC-6251-4CBC-A65A-F6C440FB0DFD}|atv-api-23-09.csproj|c:\\users\\2023202060036\\documents\\programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\models\\dadosempresatwo\\dadosempresatwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4546BAAC-6251-4CBC-A65A-F6C440FB0DFD}|atv-api-23-09.csproj|solutionrelative:models\\dadosempresatwo\\dadosempresatwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DadosEmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\Controllers\\DadosEmpresaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DadosEmpresaController.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\Controllers\\DadosEmpresaController.cs",
+              "RelativeToolTip": "Controllers\\DadosEmpresaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:15:40.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DadosEmpresaTwo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\Models\\DadosEmpresaTwo\\DadosEmpresaTwo.cs",
+              "RelativeDocumentMoniker": "Models\\DadosEmpresaTwo\\DadosEmpresaTwo.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\Models\\DadosEmpresaTwo\\DadosEmpresaTwo.cs",
+              "RelativeToolTip": "Models\\DadosEmpresaTwo\\DadosEmpresaTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:13:04.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DadosEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\Models\\DadosEmpresa.cs",
+              "RelativeDocumentMoniker": "Models\\DadosEmpresa.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Documents\\Programa\u00E7\u00E3o com acesso ao banco de dados\\atv-api-23-09\\Models\\DadosEmpresa.cs",
+              "RelativeToolTip": "Models\\DadosEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:45:47.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
