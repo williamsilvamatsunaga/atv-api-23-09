@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "atv_api_23_09.Controllers.DadosEmpresaController",
+    "Method": "BuscarTodos",
+    "RelativePath": "dados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
