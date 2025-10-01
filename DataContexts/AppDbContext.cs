@@ -9,6 +9,6 @@ namespace atv_api_23_09.DataContexts
         {
         }
 
-        public DbSet<DadosEmpresa> DadosEmpresas { get; set; }
+        public DbSet<DadosEmpresa> DadosEmpresa { get; set; }
     }
 }
